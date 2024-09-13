@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="viveksoni-10" /> </p>
+ <p><a href="https://github.com/viveksoni-10"><img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="viveksoni-10" /></a></p>
 - 🌱 I’m currently learning **B-tech(cse)!**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vivek-kumar-710781252/](https://www.linkedin.com/in/vivek-kumar-710781252/)
