@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **B-tech(cse)!**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vivek-kumar-710781252/](https://www.linkedin.com/in/vivek-kumar-710781252/)
-<img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="right" alt="coding" hight="500px" src="https://github.com/viveksoni-10/viveksoni-10/blob/main/output-onlinegiftools.gif">
 
 - 📫 How to reach me **viveksoni0987@gmail.com**
 
