@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
  <p><a href="https://github.com/viveksoni-10"><img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="viveksoni-10" /></a></p>
-- 🌱 I’m currently learning **B-tech(cse)!**
+- 🌱 I’m currently learning B-tech(cse) !
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vivek-kumar-710781252/](https://www.linkedin.com/in/vivek-kumar-710781252/)
+- 👨‍💻 All of my projects are available at [Click hete👆](https://www.linkedin.com/in/vivek-kumar-710781252/)
 <img align="right" alt="coding" hight="500px" src="https://github.com/viveksoni-10/viveksoni-10/blob/main/output-onlinegiftools.gif">
 
 - 📫 How to reach me **viveksoni0987@gmail.com**
